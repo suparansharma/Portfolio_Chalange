@@ -1,0 +1,10 @@
+.top{
+    
+    font-size: 30px;
+    float: right;
+    color: black;
+    
+}
+li {
+    display: inline;
+  }
